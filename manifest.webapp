@@ -1,0 +1,26 @@
+{
+  "version": "1.0.0",
+  "name": "notification",
+  "description": "Parametrage de la Configuration du vaccin",
+  "icons": {
+    "16": "favicon.ico",
+    "18": "favicon.ico",
+    "20": "favicon.ico",
+    "21": "favicon.ico",
+    "48": "favicon.ico",
+    "128": "favicon.ico"
+  },
+  "developer": {
+    "url": "https://hispwca.org",
+    "name": "Moukaila LABODJA",
+    "company": "HISPWCA",
+    "email": "mlabodja@hispwca.org"
+  },
+  "activities": {
+    "dhis": {
+      "href": "*"
+    }
+  },
+  "launch_path": "index.html",
+  "default_locale": "fr"
+}
